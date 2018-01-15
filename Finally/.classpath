@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jre1.8.0_144">
+		<attributes>
+			<attribute name="owner.project.facets" value="java"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jst.server.core.container/org.eclipse.jst.server.tomcat.runtimeTarget/Apache Tomcat v8.5">
+		<attributes>
+			<attribute name="owner.project.facets" value="jst.web"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/Jersey"/>
+	<classpathentry kind="lib" path="C:/Users/admin/Desktop/mysql-connector-java-5.1.23-bin.jar"/>
+	<classpathentry kind="lib" path="C:/Users/admin/Desktop/org.springframework.core.jar"/>
+	<classpathentry kind="lib" path="C:/Users/admin/Desktop/jersey-common-2.0.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.nondependency" value=""/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/admin/Desktop/sqlitejdbc-v056.jar"/>
+	<classpathentry kind="lib" path="C:/Users/admin/Desktop/jwt/jackson-annotations-2.8.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/admin/Desktop/jwt/jackson-core-2.8.9.jar"/>
+	<classpathentry kind="lib" path="C:/Users/admin/Desktop/jwt/jackson-databind-2.8.9.jar"/>
+	<classpathentry kind="lib" path="C:/Users/admin/Desktop/jwt/jjwt-0.9.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/admin/Desktop/jose/slf4j-api-1.7.21.jar"/>
+	<classpathentry kind="lib" path="C:/Users/admin/Desktop/jose/jose4j-0.5.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/admin/Desktop/jackson-all-1.9.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/admin/Desktop/org.springframework.context_3.0.5.release.jar"/>
+	<classpathentry kind="lib" path="C:/Users/admin/Desktop/spring-instrument-3.2.0.release.jar"/>
+	<classpathentry kind="lib" path="C:/Users/admin/Desktop/spring-web-3.2.1.release.jar"/>
+	<classpathentry kind="lib" path="C:/Users/admin/Desktop/org.apache.oltu.oauth2.common-0.31.jar"/>
+	<classpathentry kind="lib" path="C:/Users/admin/Desktop/org.apache.oltu.oauth2.authzserver-0.31.jar"/>
+	<classpathentry kind="lib" path="C:/Users/admin/Desktop/asm-3.1-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/admin/Desktop/org.apache.oltu.oauth2.resourceserver-0.31.jar"/>
+	<classpathentry kind="lib" path="C:/Users/admin/Desktop/apache-commons.jar"/>
+	<classpathentry kind="lib" path="C:/Users/admin/Desktop/Common/commons-codec-1.9.jar"/>
+	<classpathentry kind="lib" path="C:/Users/admin/Desktop/Common/commons-collections4-4.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/admin/Desktop/Common/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/admin/Desktop/Common/httpclient-4.5.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/admin/Desktop/Common/httpcore-4.4.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/admin/Desktop/Common/json-20140107.jar"/>
+	<classpathentry kind="lib" path="C:/Users/admin/Desktop/Common/org.apache.oltu.oauth2.authzserver-1.0.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/admin/Desktop/Common/org.apache.oltu.oauth2.client-1.0.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/admin/Desktop/Common/org.apache.oltu.oauth2.common-1.0.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/admin/Desktop/Common/org.apache.oltu.oauth2.dynamicreg.client-1.0.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/admin/Desktop/Common/org.apache.oltu.oauth2.dynamicreg.common-1.0.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/admin/Desktop/Common/org.apache.oltu.oauth2.dynamicreg.server-1.0.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/admin/Desktop/Common/org.apache.oltu.oauth2.httpclient4-1.0.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/admin/Desktop/Common/org.apache.oltu.oauth2.integration-tests-1.0.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/admin/Desktop/Common/org.apache.oltu.oauth2.resourceserver-1.0.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/admin/Desktop/Common/slf4j-api-1.7.7.jar"/>
+	<classpathentry kind="lib" path="C:/Users/admin/Desktop/jettison-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/admin/Desktop/eclipse/configuration/org.eclipse.osgi/104/0/.cp/lib/spring-beans-4.0.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/admin/Desktop/spirng.security/aopalliance-1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/admin/Desktop/spirng.security/spring-aop-4.2.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/admin/Desktop/spirng.security/spring-context-4.2.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/admin/Desktop/spirng.security/spring-core-4.2.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/admin/Desktop/spirng.security/spring-expression-4.2.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/admin/Desktop/spirng.security/spring-security-core-4.1.0.RELEASE.jar"/>
+	<classpathentry kind="output" path="build/classes"/>
+</classpath>

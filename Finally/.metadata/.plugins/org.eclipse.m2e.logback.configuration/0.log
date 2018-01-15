@@ -1,0 +1,21 @@
+2017-12-28 11:16:53,993 [Worker-3] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is not available. Remote download required.
+2017-12-28 11:17:31,043 [Worker-5] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is not available. Remote download required.
+2017-12-28 11:19:59,617 [Worker-7] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is not available. Remote download required.
+2018-01-11 08:38:05,303 [Worker-6] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is not available. Remote download required.
+2018-01-11 08:38:36,184 [Worker-5] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2018-01-11 08:38:38,352 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-compiler-plugin/3.1/maven-compiler-plugin-3.1.jar
+2018-01-11 08:38:39,406 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-war-plugin/2.4/maven-war-plugin-2.4.jar
+2018-01-11 08:38:40,475 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-compiler-plugin/3.1/maven-compiler-plugin-3.1.pom
+2018-01-11 08:38:40,565 [Worker-5] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: satti.ibraheem.restEasy:RESTfulAuth:0.0.1-SNAPSHOT @ C:\Users\admin\Desktop\UserManagement2\Finally\WebContent\WEB-INF\lib\pom.xml.
+2018-01-11 08:38:42,755 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://download.java.net/maven/2/commons-codec/commons-codec/1.9/commons-codec-1.9.pom
+2018-01-11 08:38:43,772 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/commons-codec/commons-codec/1.9/commons-codec-1.9.pom
+2018-01-11 08:38:45,788 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://download.java.net/maven/2/com/sun/jersey/jersey-server/1.9/jersey-server-1.9.pom
+2018-01-11 08:38:46,811 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/sun/jersey/jersey-server/1.9/jersey-server-1.9.pom
+2018-01-11 08:38:48,842 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://download.java.net/maven/2/com/sun/jersey/jersey-json/1.8/jersey-json-1.8.pom
+2018-01-11 08:38:49,854 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/sun/jersey/jersey-json/1.8/jersey-json-1.8.pom
+2018-01-11 08:38:51,875 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://download.java.net/maven/2/com/sun/jersey/jersey-bundle/1.18.1/jersey-bundle-1.18.1.pom
+2018-01-11 08:38:52,888 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/sun/jersey/jersey-bundle/1.18.1/jersey-bundle-1.18.1.pom
+2018-01-11 08:38:54,921 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://download.java.net/maven/2/javax/servlet/javax.servlet-api/3.0.1/javax.servlet-api-3.0.1.pom
+2018-01-11 08:38:55,933 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/javax/servlet/javax.servlet-api/3.0.1/javax.servlet-api-3.0.1.pom
+2018-01-11 08:38:56,333 [Worker-5] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 20 sec
+2018-01-11 08:38:57,616 [Worker-2] ERROR o.e.m.i.d.MavenDiscoveryService - Status ERROR: org.eclipse.equinox.p2.discovery code=0 Failed to discover all connectors. null children=[Status ERROR: org.eclipse.equinox.p2.discovery code=0 M2ERemoteBundleDiscoveryStrategy failed with an error org.eclipse.equinox.p2.core.ProvisionException: Unable to connect to repository http://download.eclipse.org/technology/m2e/discovery/directory-1.7.xml]
